@@ -1,0 +1,13 @@
+ETINMIP data 
+
+In GitHub repository, long term mean atmospheric data is uploaded
+CTL - 31-150 year mean
+NEXT - 101-150 year mean
+SEXT - 101-150 year mean
+STRO - 101-150 year mean
+
+For MIROC model, STRO experiment does not exist
+For NORESM model, NEXT experiment does not exist
+
+Please send the mail if you have any question about the data
+E-mail adress : hanjunkim0617@gmail.com
